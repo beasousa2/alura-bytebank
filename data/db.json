@@ -1,0 +1,40 @@
+{
+  "transferencias": [
+    {
+      "id": "1",
+      "value": 35,
+      "destination": "1212-1",
+      "data": "2020-11-04T16:30:10.710Z"
+    },
+    {
+      "id": "2",
+      "value": 40,
+      "destination": "1213-1",
+      "data": "2020-11-04T21:24:10.710Z"
+    },
+    {
+      "id": "3",
+      "value": 12.5,
+      "destination": "1214-1",
+      "data": "2020-11-05T21:14:10.710Z"
+    },
+    {
+      "value": 5000,
+      "destination": "4589",
+      "data": "2022-05-11T22:17:18.016Z",
+      "id": "3NZoHDt"
+    },
+    {
+      "value": 50,
+      "destination": "1369-4",
+      "data": "2022-05-11T23:43:04.794Z",
+      "id": "bCDGbGw"
+    },
+    {
+      "value": 2500,
+      "destination": "9845-5",
+      "data": "2022-05-11T23:47:59.337Z",
+      "id": "LPEfyca"
+    }
+  ]
+}
